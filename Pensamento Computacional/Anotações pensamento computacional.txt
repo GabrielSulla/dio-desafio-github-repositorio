@@ -1,0 +1,417 @@
+**Bloco I**
+
+**VISÃO GERAL DO PENSAMENTO COMPUTACIONAL:**
+
+**OBJETIVO:** Você será capaz de entender o que significa pensar computacionalmente. Pensamento aplicável à qualquer área do conhecimento. Você será capaz de resolver qualquer problema de uma maneira mais objetiva e eficiente.
+
+ **Visão geral**
+
+Objetivo: entender o que é pensar computacionalmente
+
+Over View: Pensamento computacional: Refere-se ao processo de pensamento envolvido na expressão de soluções em passos computacionais ou algoritmos que podem ser implementados no computador
+
+**- é uma habilidade geral de formulação e resolução de problemas esse é um tipo de** pensamento sistemático e eficiente e ele deve ser aplicado de maneira que o ser humano e uma máquina possa entender
+
+\- Não é uma habilidade acadêmica e pode ser aplicada para qualquer área (escrita, leitura, matemática)
+
+ 
+
+**BASEADO EM 4 PILARES:**
+
+ **Decomposição**: consiste em dividir um grande  problema com muitas variáveis contexto complexo e dividi- lo e segmenta- lo de maneira que se torna mais fácil de se resolver. Ex um quebra cabeça ver os formatos, cores, ao invés de testar um a um, ex :receita de um bolo dividi em massa recheio cobertura resolve parte por parte que fica mais fácil.
+
+ **Reconhecimento de padrões:**  identificar padrões ou tendências, similaridades e diferenças entre problemas, padrão comportamental EX bolsa de valores) 
+
+ **Abstração**: extrapolar o conceito do problema para uma forma generalista
+
+Ex: Area da circunferência C= 2 pi R mede qualquer circunferência
+
+ 
+
+**Design dos algoritmos:** Automatizar definir passo a passo a solução do problema
+
+entrada / sequência de operações / saída, solução.
+
+ 
+
+Logo, é um processo continuo, definir uma solução, testar solução, aperfeiçoamento da solução encontrada (refinamento teste análise)
+
+ 
+
+ O que isso agrega: Pensamento Sistemático, colaboração dentro da equipe, criatividade de design Facilitador
+
+ 
+
+**HABILIDADES COMPLEMENTARES:**
+
+**RACIOCINIO LÓGICO**: é uma forma de pensamento estruturado, ou raciocinio que permite encontrar a conclusão u determinar a resolução de um problema. Habilidade de treinamento para desenvolver essa habilidade
+
+ 
+
+3 tipos de Raciocínio Lógico
+
+**Indução:** dado um fenômeno que estou observando pega a particularidade e vou extrapola para o campo das ideias e determinar meios e teorias baseado no que eu vi.
+
+**Dedução:** ocorre de forma inversa a indução dada uma lei e uma teoria eu vou realizar uma dedução e previsões e explicações baseadas naquela lei.
+
+**Abdução:** é um tipo de raciocínio que utiliza a conclusão para determinar a premissa
+
+RL 
+
+INFERENCIA SINTÉTICA (ABDUÇÃO INDUÇÃO)
+
+INFERÊNCIA ANALÍTICA ( Dedução)
+
+ 
+
+UM EXEMPLO DE RACIOCINIO LÓGICO
+
+Um pai, mãe e seu casal de filhos estão sentados em uma mesa. Os homens se chamam roberto e Sergio e as mulheres Teresa e Fernanda. Sabe – se que o pai esta à frente de Fernanda e o filho a esquerda e que a mãe esta do lado direito de Sérgio
+
+R Sergio é o pai
+
+Teresa é a mãe
+
+Fernanda e roberto são filhos
+
+ 
+
+**APERFEIÇOAMENTO**
+
+Melhoramento, 
+
+ato de aperfeiçoar: encontrar solução eficiente, otimizar processos {melhor uso dos recursos} simplificar linhas de códigos, funções bem definidas {melhorar códigos e algoritmos}
+
+ aprimoramento,
+
+ refinamento
+
+A partir de uma solução determinar pontos e melhora e refinamento
+
+ O aperfeiçoamento é um processo continuo está presente em todas as etapas do processo computacional
+
+**Vantagens:**
+
+Melhor compreensão mais eficiência menos tempo menos armazenamento
+
+**BLOCO II** 
+
+**PILARES DO PENSAMENTO COMPUTACIONAL:**
+
+**OBJETIVO:** É preciso compreender como executar cada etapa de um pensamento computacional, dessa forma essa aula é deidicada à compreensão individual de cada pilar desse processo de pensamento
+
+ 
+
+**1º PILAR DO PENSAMENTO COMPUTACIONAL DECOMPOSIÇÃO:**  
+
+“ Se você tem um problema que você não consegue resolver, então que dizer que existe um problema mais fácil que é possível de ser resolvido. Encontre – o. ``
+
+Primeiro passo da resolução de problemas dentro do conceito de pensamento computacional
+
+“ Dado um problema complexo, devemos quebra-lo em problemas menores. Portanto, problemas mais fáceis e gerenciáveis.”
+
+ 
+
+1º Fase é a análise : processo de quebrar e determinar menores e gereciaveis que consiste em estudar e explorar o problema de uma forma que você consiga decompor os elementos constituintes e realizar exame detalahado conseguindo assim maior eficácia na solução.
+
+2º Fase é a Síntese: Combinar elementos recompondo o problema original ,processo de reconstrução, consiste em reunir elementos distintos em um único elemento, fundir elementos de maneira coerente
+
+ 
+
+QUAL A ORDEM DE EXECUÇÃO DESSAS TAREFAS? ( menores) Pode ser sequencial ou paralela
+
+Sequêncial : existe uma dependência ou uma ordem executadas em “fila”
+
+Paralelo: tarefas podem ser executadas concomitantemente ocorrem ao mesmo tempo e paralelizamos o problema. Sendo nesse caso um ganho de recursos absurdo em tempo e eficiência
+
+ 
+
+A decomposição nos traz a oportunidade de detectar as variáveis a partir desses pequenos problemas e segmentar esses grandes problemas dentro dos problema s pequenos essa ferramenta portanto ela é muito útil mas não basta aplicar, tem que ser capaz de desenvolver a decomposição por si mesmo. existe diversos modelos depende do contexto do domínio do problema que você já vai utilizar, mas tem que entender o domínio o conceito para que você consiga decompor sozinho sem utilizar modelos sendo assi também poderá prpor modelos
+
+ 
+
+COMO DECOMPOR? 
+
+Entenda o problema!!!
+
+Deixa o problema principal em 2º plano e foca nos componentes
+
+O que é preciso e quais são os aspectos dos problemas fundamentais para que eu preciso resolve- lo , separa seus componentes , veja se há dependência entre eles quais são as características e se são de problema menores distintos as vezes 2 aspectos diferentes estão no mesmo problema reduzido daquele problema original
+
+Uma vez eu você identifique ou colete dados ou característica as dependências daquele problema você deve agregar esses dados essas características o resultado, de forma a recompor o problema original e dai fornecer a funcionalidade o resultado desse problema
+
+ 
+
+EXEMPLOS DE DECOMPOSIÇÃO DO COTIDIANO
+
+COZINHAR:
+
+Identificar os ingredientes
+
+Determinar as etapas (sequencial ou paralelo)
+
+Executar cada etapa
+
+Agregar os ingredientes para finalizar (Recompor com coerência) 
+
+ 
+
+OUTRO EXEMPLO DO COTIDIANO 
+
+FUNCIONAMENTO DE UMA BILICLETA
+
+Identificar os componentes (roda , correia, pedal)
+
+Papel de cada componente
+
+Interdependência das peças
+
+Funcionamento do sistema
+
+ 
+
+OUTRO EXEMPLO 
+
+CRIAR UM APP
+
+Definição de componentes e etapas
+
+ 
+
+Finalidade (pra que ele vai ser útil)
+
+Interface (como vai ser a interface como ele vai aparecer)
+
+Funcionalidades (o que meu App irá fornecer para o cliente)
+
+Pré requisitos (quais são os aspectos ou funções que eu preciso para que meu App funcione
+
+ 
+
+No caso acima pegamos o projeto de um aplicativo que é algo mais complexo colocamos em etapas problemas menores, definindo cada uma, elas se juntam depois e cria o projeto de seu aplicativo, permite um desenvolvimento mais eficiente do App
+
+
+
+ **2 º PILAR  DO PENSAMENTO COMPUTACIONAL RECONHECIMENTO DE PADRÕES:**
+
+ 
+
+Modelo de referencia para que possa reconstruir ou construir determinado objeto a partir de uma referência, algo que já está estruturado e esse modelo possui uma estrutura invariante, esse modelo tem determinado quais são suas características e elas não se modificam e há também uma repetição dessa estrutura variante EX em uma sequência de números há uma repetição de 3 números . O reconhecimento de padrões ele vem da seguinte forma para que possamos determinar dentro de uma situação qual que é o modelo ou seja qual que é a estrutura invariante através de similaridades e diferenças
+
+ 
+
+Modelo base
+
+Estrutura invariante
+
+Repetição
+
+ 
+
+EXEMPLO : ARMAZENAMENTOS DEFOTOS DE REDES SOCIAIS
+
+Pegar informações através de metadados
+
+COMPRESSÃO ( para diminuir tamanho da imagem ou do objeto) à e depois consegue salvar isso em um servidor de dados (armazenamento)
+
+ESSE PROCESSO É UTILIZADO POR PLATAFORMAS DIFERENTES
+
+Esse é o padrão , esse é o modelo estrutura invariante.
+
+ 
+
+OUTRO EXEMPLO
+
+COMPRESSÃO DE DADOS
+
+ 
+
+**AAAAAAAAA**
+
+**3L 2AZ 1A 2P 1ª**                      Compressão por reconhecimento de padrões
+
+ 
+
+Valor 3 associado a cor laranja
+
+Valor 2 associado a cor azul
+
+Valor 1 assosiado a cor amarela
+
+Valor 2 assosiado ao preto
+
+ 
+
+Para o ser humano o reconhecimento de padrões é algo bem intuitivo, conseguimos pegar um objeto e identificar qual grupo ele pertence por xemplo em uma imagem saber separar o que é fruta e o que é biscoito.
+
+ 
+
+PORQUE DETERMINAR PADROES?
+
+É uma maneira de generalizar ( extrapolar) com objetivo de obter resolução para problemas diferentes que sejam similares
+
+ 
+
+CLASSIFICAÇÃO DE OBJETOS DESCONHECIDOS
+
+É realizado a partir de classes e categorias que conhecemos as características os aspectos daquela categoria e isso vai variar muito de acordo com o domínio e também o tipo de objeto que estamos tratando
+
+ 
+
+COMO O COMPUTADOR RECONHECE PADRÕES?
+
+Pelo ser humano isso é realizado pelo grau de similaridade
+
+Grupos conhecidos X objetos desconhecidos
+
+Fazemos isso por comparação
+
+Já no computador isso é realizado através de REPRESENTA~ÇÃO DE ATRIBUTOS ou seja dar dados ao computador para que ele entenda o que significa aquele objeto e pra isso fornecemos os atributos
+
+Aprendizado – conceito associado ao objeto ele tem que entender o que significa ser uma fruta
+
+Armazenar dados para que o computar consiga acessa- los e ai tomar a decisão de categorizar e classificar determinado objeto
+
+REGRAS DE DECISÃO: baseado em tudo que ele aprendeu vai tomar uma decisão, e determinar quais são essas regras para que o computador consiga tomar a decisão ou então também dentro de redes neurais você pode treinar a sua rede para que ela possa entender o conceito e depois testa está rede com dados novos assim consegue determinar a coracia da rede que você modelou.
+
+ 
+
+Em resumo o  reconhecimento de padrões parte de uma abordagem que você reconhece as características de um problema você classifica esses dados utilizando métodos distintos e aplica-los em contexto diferentes.
+
+PARA QUE É APLICADO O RECONHECIMENTO DE PADRÕES?
+
+Classificação de dados (EX arquivo documentos)
+
+Reconhecimento de imagem (EX reconhecimento de placa de carro)
+
+Reconhecimento de fala (EX reconhecimento de idioma)
+
+Análise de cenas (EX de um filme, de mídias)
+
+Classificação de documentos (semelhante a classificação de dados)
+
+ 
+
+Isso é muito utilizado em Machine Learning, Redes Neurais, Inteligência artificial, Ciência de dados.
+
+ 
+
+ 
+
+ **3º PILAR DO PENSAMENTO COMPUTACIONAL ABSTRAÇÃO:**
+
+Generalização / abstração
+
+ 
+
+ABSTRAIR: Observar, um ou mais elementos avaliando características e propriedades em separado
+
+ABSTRAÇÃO: Processo intelectual de isolamento de um objeto da realidade (concreta, palpável algo que conseguimos mensurar) processo de pegar esse objeto e abstrai-lo generaliza-lo de uma forma eu você consiga tirar a dependencia dele do concreto e você possa utilizar esse abstrato em diversas situações
+
+2+2 = 4 
+
+X + X = Y toda vez que eu incremento x eu acrescento 2 ao Y tirar do concreto que são os números e levar para o abstrato que são as variáveis
+
+ 
+
+GENERALIZAR: tornar – se geral, mais amplo, extensão tornar algo geral tirando algumas propriedades dele podendo ser usado em várias situações o X do exemplo acima pode agora assumir qualquer valor dentro do seu contexto
+
+GENERALIZAÇÃO: Na lógica é a operação intelectual que consiste em reunir numa classe geral, um conjunto de seres ou fenômenos similares
+
+ 
+
+COMO CLASSIFICAR OS DADOS?
+
+Características
+
+Identificar os pontos essenciais: cada objeto aí ter peculiaridades uma mesa por exemplo tem suas características principais mais há diversos formados que as diferencia, mas todas são mesas
+
+ 
+
+Generalizar X detalhar: deixar de lado os detalhes e generalizar de uma forma que você consiga classifica-lo e com isso conseguimos uma representação daquele objeto
+
+ 
+
+REPRESENTAÇÃO DE DADOS: Vamos supor que estamos querendo fazer um sistema e estamos precisando ter em nosso banco de dados informações sobre estudantes , primeiro vou determinar as características que um estudante pode ter ( nome, matricula, endereço, campus, curso, telefone, e-mail,////////// trabalho, tem filhos, programa preferido, livro preferido, tamanho do calçado entre outras ) o que preciso para poder programar meu sistema da faculdade de cadastro de alunos e poder então passar depois todas as funcionalidades envolvida eu preciso focar nos pontos essenciais para o meu contexto ( pontos essenciais até a /// dar as características essenciais o restante são detalhes desnecessários é dessa forma que identificamos as características essenciais de um objeto e classificamos isso é abstração
+
+Dentro da computação existe diversos conceito baseados me abstração
+
+Como por exemplo os algoritmos como o Merge Sort (pesquisa e ordenação), o clusteting, de busca binária então existe diversos algoritmos diferentes
+
+Estrutura de dados existe várias estruturas de dados diferentes que podem ser utilizadas para resolver problemas distintos uma mais eficiente que a outra dependendo do contexto como a arvore, lista, grafos
+
+Maquinas de estado finito isso também utiliza de abstração
+
+E lógico a linguagem de programação que é abstração pura
+
+ 
+
+Além disso dentro por exemplo do mundo de rede existe a parte de comunicação manda para todos a mensagem
+
+Arquitetura cliente servidor ou em camadas e arquiteturas em formato de estrela também temos abstração
+
+ 
+
+EXEMPLO: Vamos supor que preciso limpar o meu terreno
+
+Identificar as características do terreno
+
+Para depois identificar aonde que eu vou
+
+Vou classificar: preciso entender que arvore está ali? DEPENDE se for uma limpeza de inverno não, mas se for uma poda por exemplo precisa entender de cada arvore que está ali. Como nesse caso é limpar o terreno eu NÃO PRECISO CLASSIFICAR
+
+ A distância é uma característica válida vou determinar a distancia em cada ponto do meu terreno que eu preciso limpar e assim determino o trajeto que eu vou fazer de maneira a que ele seja mais eficiente dependendo do que você vai analisar determinar os pontos mais próximos a melhor forma de fazer.
+
+Aí se pode pegar esse tipo de situação em que você tem esse problema com a questão da distância mínima ou então trajeto e estender extrapolar para outro cenário
+
+ 
+
+**4º PILAR DO PENSAMENTO COMPUTACIONAL ALGORITMOS:**
+
+ 
+
+É o principal pilar dentro do pensamento computacional, ele é determinante para que possamos executar as instruções e a encontar soluções de maneira mais eficientes
+
+ 
+
+ALGORITMOS: Energia, Trabalhador, Eficiência, Rapidez
+
+Temos certeza de que o computador é um grande aliado e super versátil na resolução de problemas tem mita energia não há problema de trabalho pois pode trabalhar por 24 H, é muito eficiente e efetua coisas mais rápida do que o ser humano. Contudo o computador não opera sozinho precisa de alguém dizendo quais são as instruções detalhadas pra ele executa-las de uma forma que ele consiga executar as soluções e essas instruções somos nós que possamos. O computador o objetivo principal dele é receber os dados incluindo as instruções, manipular e armazenar esses dados e esse tipo de tarefa é realizado pelos programas, e esses programas possuem instruções que são programadas pelos desenvolvedores logo o computador precisa de alguém que diga o que fazer para resolver o problema de maneira eficiente.
+
+ 
+
+O algoritmo vem de um processo de resolução de problemas “ passo a passo” utilizando instruções que vão dizer o que precisa ser feito e qual a ordem daquelas instruções e esse algoritmo tem que ser entendido por um humano e por uma maquina
+
+ 
+
+Dentro do desenvolvimento de um programa temos três etapas:
+
+Análise: que é o estudo e definição dos dados de entrada e saída, ou seja quais são os dados que irão compor o meu problema os dados que eu preciso inserir dentro do sistema pra que eu consiga ter o meu resultado e as vezes quais os dados de saída que eu espero receber.
+
+Algoritmo: é o que vai descrever o problema por meio de ferramentas diferentes para estruturar esse algoritmo e da determinar s instruções detalhadas então as instruções detalhadas criadas por nós irão ser base para a construção do algoritmo que por sua vez será utilizado pelos programas.
+
+Codificação: Nós pegamos esse algoritmo que está de uma forma bem geral e utilizamos uma linguagem de programação de preferência a que você tiver utilizando para determinado sistema, e então codificar aquele algoritmo
+
+ 
+
+Logo para entender melhor.... 
+
+O algoritmo é uma sequência de passos com objetivo definido dadas as instruções eu tenho um fim, onde eu quero chegar.
+
+A execução de tarefas especificas para que o computador entenda não pode ser subjetiva tem que ser explicitas
+
+E o conjunto de operações que resultam em uma sucessão finita de ações
+
+EXEMPLOS DE ALORITMOS NO DIA A DIA       
+
+Preparar um lanche você segue etapas um passo a passo que você criou e esse algoritimo pode variar para um mesmo problema cada pessoa faz isso de uma forma diferente consequentemente ira contruis algoritimos distintos assim conseguindo otimizar
+
+ 
+
+Trocar uma lâmpada pega a escada remove a lâmpada queimada coloca a nova
+
+Trajeto ao trabalho
+
+Receita de bolo
+
+Todos esses exemplos são instruções executadas passo a passo para concluir a tarefa

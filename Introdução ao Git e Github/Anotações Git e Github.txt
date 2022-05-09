@@ -1,0 +1,39 @@
+
+
+# GIT E GITHUB
+
+# 
+
+link para dowload do git: https://git-scm.com/downloads
+
+Definições:
+
+APRENDENDO O QUE É GIT E GITHUB E SUA IMPORTÂNCIA.
+
+VAMOS FALAR PRIMEIRAMENTE DO GIT: existe já um software pronto para poder facilitar nossa vida, o GIT foi criado em 2005, ele é um sistema de versionamento de código distribuído ajuda a gente a monitorar diferentes versões do nosso código dentro de nossa marca, ele foi criado pelo LINUS TOVALDS, que é o criador por traz do Linux. que foi feito de maneira colaborativa, ele tinha uma equipe e essa equipe estava distribuída no mundo inteiro.
+
+Software não é feito sozinho é colaborativo 
+
+Embora o GIT hoje seja um padrão de mercado ele não é uma invenção do linus pois já existia sistemas de versionamento de código e o GIT é apenas uma criação do linus que nasceu do descontentamento dele de usar os sistemas de versionamento de código da época.
+
+Bom depois que você tem um software para cuidar dessa parte de versionamento do seu código, aonde você o guarda? Então outras empresas surgiram para solucionar essa demanda o GITHUB é uma delas, é uma empresa da Microsoft muito bem estabelecida.
+
+Como o GIT e o GITHUB são bem fortes no mercado eles aparecem geralmente juntos, mas não são a mesma coisa são tecnologia complementares, mas completamente diferentes.
+
+Mas o GIT tem concorrentes como o bitkipler, cvs entre outros.
+
+Bithub também tem concorrentes como o gitlab , git bucked entre outros.
+
+ 
+
+ALGUNS BENEFICIOS PARA ESTAR APRENDENDO AMBAS A S TECNOLOGIAS JUNTAS
+
+1 Controle de versão
+
+2 Armazenamento em nuvem
+
+3 Trabalho em equipe
+
+4 Melhorar seu código
+
+5 Reconhecimento
